@@ -1,3 +1,7 @@
+DOI https://github.com/KCB13/hello-world-1/
+
+Version 2.0
+
 # hello-world
 RENCI lunch and learn repo
 
